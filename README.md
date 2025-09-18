@@ -21,9 +21,11 @@ This file is the output result of the optimal values.
 
 **trial.mod**
 
-
+This file outlines the model. It defines the parameters, constraints and optimization goal. 
 
 **FebAvgDem**
+
+
 
 
 
