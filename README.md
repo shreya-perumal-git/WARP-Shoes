@@ -17,7 +17,7 @@ This file is the output result of the optimal values.
 
 **trial.dat**
 
-
+This file reads the data from the database.
 
 **trial.mod**
 
