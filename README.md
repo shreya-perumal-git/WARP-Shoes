@@ -24,12 +24,5 @@ This file reads the data from the database.
 This file outlines the model. It defines the parameters, constraints and optimization goal. 
 
 **FebAvgDem**
+
 This file is a data table of the calculated average demand.
-
-
-
-
-
-
-
-
