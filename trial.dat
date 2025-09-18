@@ -1,0 +1,27 @@
+table table1 "ODBC" "./WARP.mdb" "Product_Master":
+	ID <- [Product_Num], Price ~ Sales_Price;
+read table table1;
+
+table table2 "ODBC" "./FebAvgDem.mdb" "Average_Demand_for_February":
+	[Product_Num], Demand ~ Average_Demand;
+read table table2;
+
+table table3 "ODBC" "./WARP.mdb" "RM_Master":
+	RM <- [RM_Num], RM_Cost ~ Cost, Max_Quantity ~ S_Quantity;
+read table table3; 
+
+table table4 "ODBC" "./WARP.mdb" "BOM":
+	[Product_Num, RM_Num], Amt_Req ~ Quantity;
+read table table4;
+
+table table5 "ODBC" "./WARP.mdb" "Machine_Master":
+	M <- [Machine_Num], Op_Cost ~ OpCost_per_min;
+read table table5;
+
+table table6 "ODBC" "./WARP.mdb" "Machine_Assign":
+	[Product_Num, Machine_Num], Time ~ Avg_Duration;
+read table table6;
+
+	
+
+

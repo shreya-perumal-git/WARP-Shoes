@@ -1,0 +1,1482 @@
+Optimal Objective Function Value: 11528762.10
+
+Optimal Number of Shoe Type Produced: 
+
+x [*] :=
+SH001   0         SH141   0         SH281   0         SH421 416
+SH002 448         SH142 398         SH282 416         SH422   0
+SH003 464         SH143   0         SH283 422         SH423 466
+SH004   0         SH144 170.54      SH284 494         SH424   0
+SH005 244.394     SH145 173.394     SH285  39.9749    SH425 458
+SH006  33.6762    SH146   0         SH286   0         SH426 351.776
+SH007   0         SH147 400         SH287 410         SH427 478
+SH008   0         SH148   0         SH288   0         SH428   0
+SH009 101.961     SH149 435.024     SH289 308.768     SH429 235.823
+SH010   0         SH150 426         SH290 450         SH430 430
+SH011 434         SH151   0         SH291   0         SH431   0
+SH012  77.3096    SH152   0         SH292 496         SH432   0
+SH013   0         SH153   0         SH293   0         SH433   0
+SH014   0         SH154 229.673     SH294   0         SH434   0
+SH015 145.798     SH155   0         SH295 404         SH435 128.866
+SH016   0         SH156   0         SH296 428.409     SH436   0
+SH017   0         SH157 262.393     SH297   0         SH437   0
+SH018 353.632     SH158   0         SH298   0         SH438 112.803
+SH019 420         SH159   0         SH299 448         SH439   0
+SH020 396.138     SH160 406         SH300 428         SH440   0
+SH021   0         SH161   0         SH301   0         SH441   0
+SH022   0         SH162   0         SH302   0         SH442 269.372
+SH023   0         SH163   0         SH303   0         SH443   0
+SH024 109.468     SH164   0         SH304   0         SH444 280.062
+SH025   0         SH165 460         SH305   0         SH445 462
+SH026   0         SH166   0         SH306   0         SH446   0
+SH027 182.549     SH167   0         SH307  43.3715    SH447  21.4528
+SH028   0         SH168 438         SH308 255.4       SH448   0
+SH029 284.388     SH169   0         SH309  96.6729    SH449 423.993
+SH030   0         SH170 420         SH310   0         SH450   0
+SH031 298.407     SH171   0         SH311   0         SH451 456
+SH032 239.704     SH172   0         SH312 476         SH452   3.1991
+SH033   0         SH173 289.042     SH313   0         SH453 470
+SH034 372         SH174   0         SH314   0         SH454   0
+SH035 430         SH175 377.2       SH315 164         SH455   0
+SH036   0         SH176 450         SH316  17.3108    SH456 430
+SH037   0         SH177   0         SH317 410         SH457 126.24
+SH038 478         SH178 363.212     SH318 226.596     SH458   0
+SH039 390         SH179   0         SH319   0         SH459 134.43
+SH040 249.433     SH180   0         SH320 462         SH460   0
+SH041 353.834     SH181   0         SH321   0         SH461   0
+SH042 206.539     SH182   0         SH322 474         SH462 187.546
+SH043   0         SH183  54.3279    SH323   0         SH463  28.624
+SH044 259.788     SH184 204.291     SH324   0         SH464 239.67
+SH045 420         SH185 138.183     SH325 476         SH465 434
+SH046   0         SH186 185.684     SH326   0         SH466 188.316
+SH047 410         SH187 422         SH327   0         SH467   0
+SH048 260.715     SH188  57.8222    SH328   0         SH468  70.6031
+SH049   0         SH189   0         SH329 222.987     SH469 320.371
+SH050 438         SH190   0         SH330   0         SH470 297.435
+SH051   0         SH191 167.338     SH331 220.322     SH471 264.6
+SH052   0         SH192 426.286     SH332   0         SH472 244.699
+SH053 251.425     SH193   0         SH333 273.736     SH473   0
+SH054   0         SH194 434         SH334 141.207     SH474 168.21
+SH055   0         SH195 504         SH335 349.146     SH475   0
+SH056 410         SH196   0         SH336   0         SH476   0
+SH057   0         SH197 438         SH337   0         SH477 352.092
+SH058   0         SH198   0         SH338 432         SH478   0
+SH059   0         SH199   5.41557   SH339   0         SH479 488
+SH060  96.1083    SH200   0         SH340 468         SH480   0
+SH061  78.6841    SH201 240         SH341 352.977     SH481  15.1603
+SH062 458         SH202   0         SH342 398         SH482   0
+SH063 265.558     SH203 500         SH343   0         SH483 434
+SH064 150.134     SH204   0         SH344   0         SH484   0
+SH065 488         SH205   0         SH345 132.749     SH485   0
+SH066   0         SH206   0         SH346   0         SH486   0
+SH067   0         SH207   0         SH347  10.8181    SH487 203.236
+SH068   0         SH208   0         SH348 488         SH488   0
+SH069   0         SH209 436         SH349   0         SH489 362.199
+SH070   0         SH210   0         SH350  61.4268    SH490  15.8209
+SH071 444         SH211   0         SH351   0         SH491 477.782
+SH072 149.278     SH212   0         SH352 396         SH492   0
+SH073 414         SH213 436         SH353 412         SH493   0
+SH074  46.1005    SH214   0         SH354   0         SH494  34.4822
+SH075   0         SH215   0         SH355   2.86671   SH495   0
+SH076   0         SH216   0         SH356 277.903     SH496 302.754
+SH077   0         SH217  87.5461    SH357   0         SH497 450
+SH078 341.439     SH218   0         SH358   0         SH498 385.378
+SH079   0         SH219   0         SH359   0         SH499   0
+SH080 410         SH220   0         SH360   0         SH500 346.546
+SH081 210.422     SH221 468         SH361 418         SH501 420
+SH082 273.413     SH222   0         SH362 130.029     SH502   0
+SH083   0         SH223 410         SH363   0         SH503   0
+SH084  29.5346    SH224 442         SH364   0         SH504   0
+SH085   0         SH225 420.173     SH365   0         SH505   0
+SH086   0         SH226 418         SH366   0         SH506   0
+SH087 430         SH227 273.945     SH367 452         SH507 361.901
+SH088  88.0707    SH228   0         SH368   0         SH508 426
+SH089   0         SH229   0         SH369 273.882     SH509   0
+SH090 347.934     SH230  89.8808    SH370   0         SH510   0
+SH091   0         SH231   0         SH371  17.4194    SH511 398
+SH092 259.702     SH232 438         SH372 153.987     SH512 390.534
+SH093   0         SH233 304.613     SH373 374.937     SH513 448
+SH094 102.101     SH234 389.871     SH374   0         SH514 215.251
+SH095  99.9901    SH235 105.786     SH375  60.5619    SH515   0
+SH096 452         SH236   0         SH376  68.6082    SH516   0
+SH097   0         SH237   0         SH377  51.0343    SH517  60.1233
+SH098   0         SH238  76.2473    SH378 422         SH518   0
+SH099   0         SH239 454         SH379 234.977     SH519   0
+SH100   0         SH240   0         SH380   0         SH520 348.781
+SH101   0         SH241 190.053     SH381   0         SH521 349.91
+SH102   0         SH242   0         SH382   0         SH522  66.7273
+SH103   0         SH243   0         SH383   0         SH523 126.016
+SH104   0         SH244   0         SH384 504         SH524   0
+SH105 418         SH245   0         SH385 136.199     SH525 270.973
+SH106 296.182     SH246   0         SH386   0         SH526   0
+SH107   0         SH247 334.737     SH387   0         SH527 293.426
+SH108   0         SH248   0         SH388   0         SH528   0
+SH109 286.54      SH249 406         SH389  24.8096    SH529   0
+SH110 418         SH250   0         SH390   0         SH530 128.477
+SH111   0         SH251   0         SH391 102.078     SH531   0
+SH112   0         SH252   0         SH392   0         SH532 290.444
+SH113 454         SH253  52.2661    SH393   0         SH533   0
+SH114   0         SH254 480         SH394  69.9591    SH534  41.5386
+SH115 269.665     SH255   0         SH395 460         SH535 440
+SH116 201.412     SH256 434         SH396   0         SH536 434
+SH117  52.5443    SH257   0         SH397   0         SH537   0
+SH118   0         SH258   0         SH398   0         SH538 111.651
+SH119 130.71      SH259 116.067     SH399 378.214     SH539   0
+SH120 129.089     SH260  78.2497    SH400 239.653     SH540   0
+SH121 508         SH261 410         SH401   0         SH541 338
+SH122   0         SH262 412         SH402   0         SH542   0
+SH123   0         SH263   0         SH403   0         SH543 470
+SH124   0         SH264 486         SH404   0         SH544 265.736
+SH125   0         SH265   0         SH405   0         SH545   0
+SH126 270.836     SH266   0         SH406   0         SH546 476
+SH127   0         SH267   0         SH407 438         SH547   0
+SH128   0         SH268   0         SH408   0         SH548   0
+SH129   0         SH269 430         SH409 163.434     SH549  98.4539
+SH130 386.94      SH270   0         SH410 192.652     SH550   0
+SH131   0         SH271 209.978     SH411 420         SH551   0
+SH132 301.2       SH272   0         SH412   0         SH552   0
+SH133   0         SH273 366.311     SH413   0         SH553 340.782
+SH134 259.349     SH274   0         SH414   0         SH554   0
+SH135   0         SH275   0         SH415 438         SH555   0
+SH136   0         SH276 411.965     SH416   0         SH556 424
+SH137 252.369     SH277 422         SH417 434.852     SH557 372.543
+SH138   0         SH278   0         SH418 430.095
+SH139   0         SH279 364.844     SH419 382.337
+SH140   0         SH280   0         SH420   0
+;
+
+
+
+Relaxed LP: 
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 448
+
+round(x[i], 0) = 464
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 244
+
+round(x[i], 0) = 34
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 102
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 434
+
+round(x[i], 0) = 77
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 146
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 354
+
+round(x[i], 0) = 420
+
+round(x[i], 0) = 396
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 109
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 183
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 284
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 298
+
+round(x[i], 0) = 240
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 372
+
+round(x[i], 0) = 430
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 478
+
+round(x[i], 0) = 390
+
+round(x[i], 0) = 249
+
+round(x[i], 0) = 354
+
+round(x[i], 0) = 207
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 260
+
+round(x[i], 0) = 420
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 410
+
+round(x[i], 0) = 261
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 438
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 251
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 410
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 96
+
+round(x[i], 0) = 79
+
+round(x[i], 0) = 458
+
+round(x[i], 0) = 266
+
+round(x[i], 0) = 150
+
+round(x[i], 0) = 488
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 444
+
+round(x[i], 0) = 149
+
+round(x[i], 0) = 414
+
+round(x[i], 0) = 46
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 341
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 410
+
+round(x[i], 0) = 210
+
+round(x[i], 0) = 273
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 30
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 430
+
+round(x[i], 0) = 88
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 348
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 260
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 102
+
+round(x[i], 0) = 100
+
+round(x[i], 0) = 452
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 418
+
+round(x[i], 0) = 296
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 287
+
+round(x[i], 0) = 418
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 454
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 270
+
+round(x[i], 0) = 201
+
+round(x[i], 0) = 53
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 131
+
+round(x[i], 0) = 129
+
+round(x[i], 0) = 508
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 271
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 387
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 301
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 259
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 252
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 398
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 171
+
+round(x[i], 0) = 173
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 400
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 435
+
+round(x[i], 0) = 426
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 230
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 262
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 406
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 460
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 438
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 420
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 289
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 377
+
+round(x[i], 0) = 450
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 363
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 54
+
+round(x[i], 0) = 204
+
+round(x[i], 0) = 138
+
+round(x[i], 0) = 186
+
+round(x[i], 0) = 422
+
+round(x[i], 0) = 58
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 167
+
+round(x[i], 0) = 426
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 434
+
+round(x[i], 0) = 504
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 438
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 5
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 240
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 500
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 436
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 436
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 88
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 468
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 410
+
+round(x[i], 0) = 442
+
+round(x[i], 0) = 420
+
+round(x[i], 0) = 418
+
+round(x[i], 0) = 274
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 90
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 438
+
+round(x[i], 0) = 305
+
+round(x[i], 0) = 390
+
+round(x[i], 0) = 106
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 76
+
+round(x[i], 0) = 454
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 190
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 335
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 406
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 52
+
+round(x[i], 0) = 480
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 434
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 116
+
+round(x[i], 0) = 78
+
+round(x[i], 0) = 410
+
+round(x[i], 0) = 412
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 486
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 430
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 210
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 366
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 412
+
+round(x[i], 0) = 422
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 365
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 416
+
+round(x[i], 0) = 422
+
+round(x[i], 0) = 494
+
+round(x[i], 0) = 40
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 410
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 309
+
+round(x[i], 0) = 450
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 496
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 404
+
+round(x[i], 0) = 428
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 448
+
+round(x[i], 0) = 428
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 43
+
+round(x[i], 0) = 255
+
+round(x[i], 0) = 97
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 476
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 164
+
+round(x[i], 0) = 17
+
+round(x[i], 0) = 410
+
+round(x[i], 0) = 227
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 462
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 474
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 476
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 223
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 220
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 274
+
+round(x[i], 0) = 141
+
+round(x[i], 0) = 349
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 432
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 468
+
+round(x[i], 0) = 353
+
+round(x[i], 0) = 398
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 133
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 11
+
+round(x[i], 0) = 488
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 61
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 396
+
+round(x[i], 0) = 412
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 3
+
+round(x[i], 0) = 278
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 418
+
+round(x[i], 0) = 130
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 452
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 274
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 17
+
+round(x[i], 0) = 154
+
+round(x[i], 0) = 375
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 61
+
+round(x[i], 0) = 69
+
+round(x[i], 0) = 51
+
+round(x[i], 0) = 422
+
+round(x[i], 0) = 235
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 504
+
+round(x[i], 0) = 136
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 25
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 102
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 70
+
+round(x[i], 0) = 460
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 378
+
+round(x[i], 0) = 240
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 438
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 163
+
+round(x[i], 0) = 193
+
+round(x[i], 0) = 420
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 438
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 435
+
+round(x[i], 0) = 430
+
+round(x[i], 0) = 382
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 416
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 466
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 458
+
+round(x[i], 0) = 352
+
+round(x[i], 0) = 478
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 236
+
+round(x[i], 0) = 430
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 129
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 113
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 269
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 280
+
+round(x[i], 0) = 462
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 21
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 424
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 456
+
+round(x[i], 0) = 3
+
+round(x[i], 0) = 470
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 430
+
+round(x[i], 0) = 126
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 134
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 188
+
+round(x[i], 0) = 29
+
+round(x[i], 0) = 240
+
+round(x[i], 0) = 434
+
+round(x[i], 0) = 188
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 71
+
+round(x[i], 0) = 320
+
+round(x[i], 0) = 297
+
+round(x[i], 0) = 265
+
+round(x[i], 0) = 245
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 168
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 352
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 488
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 15
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 434
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 203
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 362
+
+round(x[i], 0) = 16
+
+round(x[i], 0) = 478
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 34
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 303
+
+round(x[i], 0) = 450
+
+round(x[i], 0) = 385
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 347
+
+round(x[i], 0) = 420
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 362
+
+round(x[i], 0) = 426
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 398
+
+round(x[i], 0) = 391
+
+round(x[i], 0) = 448
+
+round(x[i], 0) = 215
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 60
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 349
+
+round(x[i], 0) = 350
+
+round(x[i], 0) = 67
+
+round(x[i], 0) = 126
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 271
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 293
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 128
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 290
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 42
+
+round(x[i], 0) = 440
+
+round(x[i], 0) = 434
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 112
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 338
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 470
+
+round(x[i], 0) = 266
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 476
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 98
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 341
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 0
+
+round(x[i], 0) = 424
+
+round(x[i], 0) = 373
+
+
+
+Binding Constraints: 
+
+Material_Available is binding.[1]
+Material_Available is binding.[2]
+Material_Available is binding.[3]
+Material_Available is binding.[4]
+Material_Available is binding.[5]
+Material_Available is binding.[6]
+Material_Available is binding.[7]
+Material_Available is binding.[8]
+Material_Available is binding.[9]
+Material_Available is binding.[10]
+Material_Available is binding.[11]
+Material_Available is binding.[12]
+Material_Available is binding.[13]
+Material_Available is binding.[14]
+Material_Available is binding.[15]
+Material_Available is binding.[16]
+Material_Available is binding.[17]
+Material_Available is binding.[18]
+Material_Available is binding.[19]
+Material_Available is binding.[20]
+Material_Available is binding.[21]
+Material_Available is binding.[22]
+Material_Available is binding.[23]
+Material_Available is binding.[24]
+Material_Available is binding.[25]
+Material_Available is binding.[26]
+Material_Available is binding.[27]
+Material_Available is binding.[28]
+Material_Available is binding.[29]
+Material_Available is binding.[30]
+Material_Available is binding.[31]
+Material_Available is binding.[32]
+Material_Available is binding.[33]
+Material_Available is binding.[34]
+Material_Available is binding.[35]
+Material_Available is binding.[36]
+Material_Available is binding.[37]
+Material_Available is binding.[38]
+Material_Available is binding.[39]
+Material_Available is binding.[40]
+Material_Available is binding.[41]
+Material_Available is binding.[42]
+Material_Available is binding.[43]
+Material_Available is binding.[44]
+Material_Available is binding.[45]
+Material_Available is binding.[46]
+Material_Available is binding.[47]
+Material_Available is binding.[48]
+Material_Available is binding.[49]
+Material_Available is binding.[50]
+Material_Available is binding.[51]
+Material_Available is binding.[52]
+Material_Available is binding.[53]
+Material_Available is binding.[54]
+Material_Available is binding.[55]
+Material_Available is binding.[56]
+Material_Available is binding.[57]
+Material_Available is binding.[58]
+Material_Available is binding.[59]
+Material_Available is binding.[60]
+Material_Available is binding.[61]
+Material_Available is binding.[62]
+Material_Available is binding.[63]
+Material_Available is binding.[64]
+Material_Available is binding.[65]
+Material_Available is binding.[66]
+Material_Available is binding.[67]
+Material_Available is binding.[68]
+Material_Available is binding.[69]
+Material_Available is binding.[70]
+Material_Available is binding.[71]
+Material_Available is binding.[72]
+Material_Available is binding.[73]
+Material_Available is binding.[74]
+Material_Available is binding.[75]
+Material_Available is binding.[76]
+Material_Available is binding.[77]
+Material_Available is binding.[78]
+Material_Available is binding.[79]
+Material_Available is binding.[80]
+Material_Available is binding.[81]
+Material_Available is binding.[82]
+Material_Available is binding.[83]
+Material_Available is binding.[84]
+Material_Available is binding.[85]
+Material_Available is binding.[86]
+Material_Available is binding.[87]
+Material_Available is binding.[88]
+Material_Available is binding.[89]
+Material_Available is binding.[90]
+Material_Available is binding.[91]
+Material_Available is binding.[92]
+Material_Available is binding.[93]
+Material_Available is binding.[94]
+Material_Available is binding.[95]
+Material_Available is binding.[96]
+Material_Available is binding.[97]
+Material_Available is binding.[98]
+Material_Available is binding.[99]
+Material_Available is binding.[100]
+Material_Available is binding.[101]
+Material_Available is binding.[102]
+Material_Available is binding.[103]
+Material_Available is binding.[104]
+Material_Available is binding.[105]
+Material_Available is binding.[106]
+Material_Available is binding.[107]
+Material_Available is binding.[108]
+Material_Available is binding.[109]
+Material_Available is binding.[110]
+Material_Available is binding.[111]
+Material_Available is binding.[112]
+Material_Available is binding.[113]
+Material_Available is binding.[114]
+Material_Available is binding.[115]
+Material_Available is binding.[116]
+Material_Available is binding.[117]
+Material_Available is binding.[118]
+Material_Available is binding.[119]
+Material_Available is binding.[120]
+Material_Available is binding.[121]
+Material_Available is binding.[122]
+Material_Available is binding.[123]
+Material_Available is binding.[124]
+Material_Available is binding.[125]
+Material_Available is binding.[126]
+Material_Available is binding.[127]
+Material_Available is binding.[128]
+Material_Available is binding.[129]
+Material_Available is binding.[130]
+Material_Available is binding.[131]
+Material_Available is binding.[132]
+Material_Available is binding.[133]
+Material_Available is binding.[134]
+Material_Available is binding.[135]
+Material_Available is binding.[136]
+Material_Available is binding.[137]
+Material_Available is binding.[138]
+Material_Available is binding.[139]
+Material_Available is binding.[140]
+Material_Available is binding.[141]
+Material_Available is binding.[142]
+Material_Available is binding.[143]
+Material_Available is binding.[144]
+Material_Available is binding.[145]
+Material_Available is binding.[146]
+Material_Available is binding.[147]
+Material_Available is binding.[148]
+Material_Available is binding.[149]
+Material_Available is binding.[150]
+Material_Available is binding.[151]
+Material_Available is binding.[152]
+Material_Available is binding.[153]
+Material_Available is binding.[154]
+Material_Available is binding.[155]
+Material_Available is binding.[156]
+Material_Available is binding.[157]
+Material_Available is binding.[158]
+Material_Available is binding.[159]
+Material_Available is binding.[160]
+Material_Available is binding.[161]
+Material_Available is binding.[162]
+Material_Available is binding.[163]
+Material_Available is binding.[164]
+Material_Available is binding.[165]
+Machine_Time_Limit is binding.[63]
+Machine_Time_Limit is binding.[64]
+Machine_Time_Limit is binding.[68]
+Binding Constraints: 
+
+Material_Available is violated.[1]
+Material_Available is violated.[5]
+Material_Available is violated.[13]
+Material_Available is violated.[15]
+Material_Available is violated.[18]
+Material_Available is violated.[19]
+Material_Available is violated.[21]
+Material_Available is violated.[23]
+Material_Available is violated.[27]
+Material_Available is violated.[30]
+Material_Available is violated.[34]
+Material_Available is violated.[35]
+Material_Available is violated.[39]
+Material_Available is violated.[43]
+Material_Available is violated.[44]
+Material_Available is violated.[47]
+Material_Available is violated.[51]
+Material_Available is violated.[52]
+Material_Available is violated.[54]
+Material_Available is violated.[55]
+Material_Available is violated.[56]
+Material_Available is violated.[61]
+Material_Available is violated.[63]
+Material_Available is violated.[69]
+Material_Available is violated.[76]
+Material_Available is violated.[78]
+Material_Available is violated.[80]
+Material_Available is violated.[87]
+Material_Available is violated.[92]
+Material_Available is violated.[94]
+Material_Available is violated.[99]
+Material_Available is violated.[102]
+Material_Available is violated.[106]
+Material_Available is violated.[107]
+Material_Available is violated.[109]
+Material_Available is violated.[110]
+Material_Available is violated.[115]
+Material_Available is violated.[130]
+Material_Available is violated.[132]
+Material_Available is violated.[134]
+Material_Available is violated.[138]
+Machine_Time_Limit is violated.[63]
+Machine_Time_Limit is violated.[64]

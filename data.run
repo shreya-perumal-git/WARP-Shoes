@@ -1,0 +1,73 @@
+reset;
+
+model trial.mod;
+
+data trial.dat;
+
+option solver gurobi;
+
+solve;
+
+#Out File
+
+#Objective Value
+printf "Optimal Objective Function Value: %.2f\n\n", Profit > WARP.out;
+
+#Original X Values
+printf "Optimal Number of Shoe Type Produced: \n\n" >> WARP.out;
+display x >> WARP.out;
+printf "\n\n" >> WARP.out;
+#Rounded X Values for Relaxed LP
+printf "Relaxed LP: \n\n" >> WARP.out;
+for {i in ID} {
+	display round(x[i]) >> WARP.out;
+}
+	
+printf "\n\n" >> WARP.out;
+
+#Binding Constraints
+printf "Binding Constraints: \n\n" >> WARP.out;
+for {i in 1..165}{
+	if Raw_Material_Cost[i].slack < 1e-6 then 
+	printf "Raw_Material_Cost is binding.[%s]\n", i >> WARP.out;
+}
+for {i in 1..165}{
+	if Material_Available[i].slack < 1e-6 then 
+	printf "Material_Available is binding.[%s]\n", i >> WARP.out;
+}
+for {i in 1..72}{
+	if Machine_Time_Limit[i].slack < 1e-6 then 
+	printf "Machine_Time_Limit is binding.[%s]\n", i >> WARP.out;
+}
+
+if Warehouse_Capacity.slack < 1e-6 then 
+printf "Warehouse_Capacity is binding.\n" >> WARP.out;
+
+#Violation
+printf "Binding Constraints: \n\n" >> WARP.out;
+for {i in 1..165}{
+	if Raw_Material_Cost[i].slack < 0 then 
+	printf "Raw_Material_Cost is violated.[%s]\n", i >> WARP.out;
+}
+for {i in 1..165}{
+	if Material_Available[i].slack < 0 then 
+	printf "Material_Available is violated.[%s]\n", i >> WARP.out;
+}
+for {i in 1..72}{
+	if Machine_Time_Limit[i].slack < 0 then 
+	printf "Machine_Time_Limit is violated.[%s]\n", i >> WARP.out;
+}
+
+if Warehouse_Capacity.slack < 0 then 
+printf "Warehouse_Capacity is violated.\n" >> WARP.out;
+
+
+/*
+display Price; 
+display Demand;
+display RM_Cost;
+display Max_Quantity;
+display Amt_Req;
+display Op_Cost;
+display Time;
+*/
