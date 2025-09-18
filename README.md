@@ -13,7 +13,7 @@ This file is the output result of the optimal values.
 
 **data.run**
 
-
+This file calls the data and model files together and puts the model into the gurobi solver.
 
 **trial.dat**
 
@@ -24,6 +24,7 @@ This file reads the data from the database.
 This file outlines the model. It defines the parameters, constraints and optimization goal. 
 
 **FebAvgDem**
+This file is a data table of the calculated average demand.
 
 
 
